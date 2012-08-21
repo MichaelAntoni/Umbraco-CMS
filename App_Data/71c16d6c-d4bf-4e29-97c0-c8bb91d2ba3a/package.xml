@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<umbPackage>
+  <files>
+    <file>
+      <guid>friendly-ghost_dark.css</guid>
+      <orgPath>/css</orgPath>
+      <orgName>friendly-ghost_dark.css</orgName>
+    </file>
+    <file>
+      <guid>friendly-ghost_light.css</guid>
+      <orgPath>/css</orgPath>
+      <orgName>friendly-ghost_light.css</orgName>
+    </file>
+    <file>
+      <guid>empire-state-light.jpg</guid>
+      <orgPath>/css/friendly-ghost</orgPath>
+      <orgName>empire-state-light.jpg</orgName>
+    </file>
+    <file>
+      <guid>empire-state-street.jpg</guid>
+      <orgPath>/css/friendly-ghost</orgPath>
+      <orgName>empire-state-street.jpg</orgName>
+    </file>
+    <file>
+      <guid>empire-state.jpg</guid>
+      <orgPath>/css/friendly-ghost</orgPath>
+      <orgName>empire-state.jpg</orgName>
+    </file>
+    <file>
+      <guid>facebook-logo-light.png</guid>
+      <orgPath>/css/friendly-ghost</orgPath>
+      <orgName>facebook-logo-light.png</orgName>
+    </file>
+    <file>
+      <guid>facebook-logo.png</guid>
+      <orgPath>/css/friendly-ghost</orgPath>
+      <orgName>facebook-logo.png</orgName>
+    </file>
+    <file>
+      <guid>ghost-light.png</guid>
+      <orgPath>/css/friendly-ghost</orgPath>
+      <orgName>ghost-light.png</orgName>
+    </file>
+    <file>
+      <guid>ghost.png</guid>
+      <orgPath>/css/friendly-ghost</orgPath>
+      <orgName>ghost.png</orgName>
+    </file>
+    <file>
+      <guid>twitter-logo-light.png</guid>
+      <orgPath>/css/friendly-ghost</orgPath>
+      <orgName>twitter-logo-light.png</orgName>
+    </file>
+    <file>
+      <guid>twitter-logo.png</guid>
+      <orgPath>/css/friendly-ghost</orgPath>
+      <orgName>twitter-logo.png</orgName>
+    </file>
+    <file>
+      <guid>skin.xml</guid>
+      <orgPath>/masterpages/FriendlyGhost</orgPath>
+      <orgName>skin.xml</orgName>
+    </file>
+    <file>
+      <guid>umbHomepage.master</guid>
+      <orgPath>/masterpages/FriendlyGhost</orgPath>
+      <orgName>umbHomepage.master</orgName>
+    </file>
+     <file>
+          <guid>umbBusinessHomepage.master</guid>
+          <orgPath>/masterpages/FriendlyGhost</orgPath>
+          <orgName>umbBusiness.master</orgName>
+    </file>
+    <file>
+      <guid>umbMaster.master</guid>
+      <orgPath>/masterpages/FriendlyGhost</orgPath>
+      <orgName>umbMaster.master</orgName>
+    </file>
+    <file>
+      <guid>umbTextpage.master</guid>
+      <orgPath>/masterpages/FriendlyGhost</orgPath>
+      <orgName>umbTextpage.master</orgName>
+    </file>
+  </files>
+  <info>
+    <package>
+      <name>FriendlyGhostSkin</name>
+      <version>1.0</version>
+      <license url="http://www.opensource.org/licenses/mit-license.php">MIT license</license>
+      <url>http://umbraco.org</url>
+      <requirements>
+        <major>3</major>
+        <minor>0</minor>
+        <patch>0</patch>
+      </requirements>
+    </package>
+    <author>
+      <name>Umbraco HQ</name>
+      <website>http://umbraco.org</website>
+    </author>
+    <readme><![CDATA[Skin for umbraco starter kits, design by Liebling http://lieblingdesign.dk]]></readme>
+  </info>
+  <DocumentTypes />
+  <Templates />
+  <Stylesheets />
+  <Macros />
+  <DictionaryItems />
+  <Languages />
+  <DataTypes />
+</umbPackage>

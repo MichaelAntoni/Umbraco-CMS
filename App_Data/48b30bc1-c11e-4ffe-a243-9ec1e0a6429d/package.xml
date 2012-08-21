@@ -1,0 +1,1791 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<umbPackage>
+  <enableSkins>true</enableSkins>
+  <files>
+    <file>
+      <guid>umb2ndLevelNavigation.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>umb2ndLevelNavigation.xslt</orgName>
+    </file>
+    <file>
+      <guid>umbBlogArchive.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>umbBlogArchive.xslt</orgName>
+    </file>
+    <file>
+      <guid>umbBlogroll.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>umbBlogroll.xslt</orgName>
+    </file>
+    <file>
+      <guid>umbBlogCategories.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>umbBlogCategories.xslt</orgName>
+    </file>
+    <file>
+      <guid>AjaxCommentForm.ascx</guid>
+      <orgPath>~/usercontrols/Blog</orgPath>
+      <orgName>AjaxCommentForm.ascx</orgName>
+    </file>
+    <file>
+      <guid>umbBlogFullArchive.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>umbBlogFullArchive.xslt</orgName>
+    </file>
+    <file>
+      <guid>umbBlogLatestComments.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>umbBlogLatestComments.xslt</orgName>
+    </file>
+    <file>
+      <guid>umbBlogListPosts.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>umbBlogListPosts.xslt</orgName>
+    </file>
+    <file>
+      <guid>umbBlogMetaWeblogChannel.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>umbBlogMetaWeblogChannel.xslt</orgName>
+    </file>
+    <file>
+      <guid>umbBlogPostListComments.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>umbBlogPostListComments.xslt</orgName>
+    </file>
+    <file>
+      <guid>umbBlogRss.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>umbBlogRss.xslt</orgName>
+    </file>
+    <file>
+      <guid>umbBlogRssFeedLink.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>umbBlogRssFeedLink.xslt</orgName>
+    </file>
+    <file>
+      <guid>umbBlogTagcloud.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>umbBlogTagcloud.xslt</orgName>
+    </file>
+    <file>
+      <guid>umbBlogpages.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>umbBlogpages.xslt</orgName>
+    </file>
+    <file>
+      <guid>umbBlogpostRelatedPages.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>umbBlogpostRelatedPages.xslt</orgName>
+    </file>
+    <file>
+      <guid>Contact.ascx</guid>
+      <orgPath>~/usercontrols/RunwayContactForm</orgPath>
+      <orgName>Contact.ascx</orgName>
+    </file>
+    <file>
+      <guid>galleryListAlbums.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>galleryListAlbums.xslt</orgName>
+    </file>
+    <file>
+      <guid>galleryListPhotos.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>galleryListPhotos.xslt</orgName>
+    </file>
+    <file>
+      <guid>umbNewsListItems.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>umbNewsListItems.xslt</orgName>
+    </file>
+    <file>
+      <guid>umbTopNavigation.xslt</guid>
+      <orgPath>/xslt</orgPath>
+      <orgName>umbTopNavigation.xslt</orgName>
+    </file>
+    <file>
+      <guid>Runway.Blog.dll</guid>
+      <orgPath>/bin</orgPath>
+      <orgName>Runway.Blog.dll</orgName>
+    </file>
+    <file>
+      <guid>190d3e12-90c2-48e8-ab5a-c8cce1fd9119_AjaxCommentForm.ascx</guid>
+      <orgPath>/usercontrols/Blog</orgPath>
+      <orgName>AjaxCommentForm.ascx</orgName>
+    </file>
+    <file>
+      <guid>BlogInstaller.ascx</guid>
+      <orgPath>/usercontrols/Blog</orgPath>
+      <orgName>BlogInstaller.ascx</orgName>
+    </file>
+    <file>
+      <guid>CommentModeration.ascx</guid>
+      <orgPath>/usercontrols/Blog</orgPath>
+      <orgName>CommentModeration.ascx</orgName>
+    </file>
+    <file>
+      <guid>the flag.jpg</guid>
+      <orgPath>/media/818</orgPath>
+      <orgName>the flag.jpg</orgName>
+    </file>
+    <file>
+      <guid>the flag_thumb.jpg</guid>
+      <orgPath>/media/818</orgPath>
+      <orgName>the flag_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>the banner.jpg</guid>
+      <orgPath>/media/824</orgPath>
+      <orgName>the banner.jpg</orgName>
+    </file>
+    <file>
+      <guid>the banner_thumb.jpg</guid>
+      <orgPath>/media/824</orgPath>
+      <orgName>the banner_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>the crowd.jpg</guid>
+      <orgPath>/media/836</orgPath>
+      <orgName>the crowd.jpg</orgName>
+    </file>
+    <file>
+      <guid>the crowd_thumb.jpg</guid>
+      <orgPath>/media/836</orgPath>
+      <orgName>the crowd_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>the vest.jpg</guid>
+      <orgPath>/media/842</orgPath>
+      <orgName>the vest.jpg</orgName>
+    </file>
+    <file>
+      <guid>the vest_thumb.jpg</guid>
+      <orgPath>/media/842</orgPath>
+      <orgName>the vest_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>birthday2.jpg</guid>
+      <orgPath>/media/872</orgPath>
+      <orgName>birthday2.jpg</orgName>
+    </file>
+    <file>
+      <guid>birthday2_thumb.jpg</guid>
+      <orgPath>/media/872</orgPath>
+      <orgName>birthday2_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>birthday3.jpg</guid>
+      <orgPath>/media/878</orgPath>
+      <orgName>birthday3.jpg</orgName>
+    </file>
+    <file>
+      <guid>birthday3_thumb.jpg</guid>
+      <orgPath>/media/878</orgPath>
+      <orgName>birthday3_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>birthday1.jpg</guid>
+      <orgPath>/media/890</orgPath>
+      <orgName>birthday1.jpg</orgName>
+    </file>
+    <file>
+      <guid>birthday1_thumb.jpg</guid>
+      <orgPath>/media/890</orgPath>
+      <orgName>birthday1_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>birthday4.jpg</guid>
+      <orgPath>/media/902</orgPath>
+      <orgName>birthday4.jpg</orgName>
+    </file>
+    <file>
+      <guid>birthday4_thumb.jpg</guid>
+      <orgPath>/media/902</orgPath>
+      <orgName>birthday4_thumb.jpg</orgName>
+    </file>
+    <file>
+      <guid>Contact.ascx.cs</guid>
+      <orgPath>/App_Code/RunwayContactForm</orgPath>
+      <orgName>Contact.ascx.cs</orgName>
+    </file>
+    <file>
+      <guid>Contact.ascx.designer.cs</guid>
+      <orgPath>/App_Code/RunwayContactForm</orgPath>
+      <orgName>Contact.ascx.designer.cs</orgName>
+    </file>
+    <file>
+      <guid>Umbraco.RunwayGallery.cs</guid>
+      <orgPath>/App_Code</orgPath>
+      <orgName>Umbraco.RunwayGallery.cs</orgName>
+    </file>
+    <file>
+      <guid>jquery.lightbox-0.5.min.js</guid>
+      <orgPath>/scripts</orgPath>
+      <orgName>jquery.lightbox-0.5.min.js</orgName>
+    </file>
+    <file>
+      <guid>8d4cc1f4-3b14-44d3-bb2a-a76b593dbde4_BlogInstaller.ascx</guid>
+      <orgPath>/usercontrols/Blog</orgPath>
+      <orgName>BlogInstaller.ascx</orgName>
+    </file>
+  </files>
+  <info>
+    <package>
+      <name>Personal site</name>
+      <version>1.1</version>
+      <license url="http://www.opensource.org/licenses/mit-license.php">MIT license</license>
+      <url>http://umbraco.org</url>
+      <requirements>
+        <major>3</major>
+        <minor>0</minor>
+        <patch>0</patch>
+      </requirements>
+    </package>
+    <author>
+      <name>Umbraco HQ</name>
+      <website>http://umbraco.org</website>
+    </author>
+    <readme><![CDATA[]]></readme>
+  </info>
+  <Documents>
+    <DocumentSet importMode="root">
+      <umbBlog id="1062" parentID="-1" level="1" writerID="0" creatorID="0" nodeType="1053" template="1049" sortOrder="2" createDate="2010-09-07T11:21:53" updateDate="2010-11-25T13:40:44" nodeName="Personal Site" urlName="personal-site" writerName="Administrator" creatorName="Administrator" path="-1,1062" isDoc="">
+        <siteName>Your personal site</siteName>
+        <siteDescription><![CDATA[Off to a great start]]></siteDescription>
+        <blogroll>
+          <links />
+        </blogroll>
+        <akismetAPIKey />
+        <owner><![CDATA[0]]></owner>
+        <pingServices>
+          <links />
+        </pingServices>
+        <bodyText><![CDATA[
+<p>&nbsp;</p>
+
+<?UMBRACO_MACRO macroAlias="BlogListPosts" />
+]]></bodyText>
+        <umbBlogPost id="1063" parentID="1062" level="2" writerID="0" creatorID="0" nodeType="1054" template="1048" sortOrder="1" createDate="2010-09-07T11:21:54" updateDate="2010-11-25T13:40:45" nodeName="Welcome" urlName="welcome" writerName="Administrator" creatorName="Administrator" path="-1,1062,1063" isDoc="">
+          <bodyText><![CDATA[<p><strong>Hi there!</strong> , welcome to your new Umbraco powered blog. Before you start posting away, there's a handful of things we thought you should know:</p>
+<ol>
+<li>
+<p>There is a comprehensive and detailed usage and configuration manual, which covers everything about setting up this blog and about blogging in general</p>
+<p><strong><a href="http://our.umbraco.org/FileDownload?id=498">Download the usage guide</a></strong></p>
+</li>
+<li>
+<p>This package is open source and developement is community driven. So if you have an idea for improvement or wish to be a part of developing this package you should join the conversaion.</p>
+<p><a href="http://our.umbraco.org/projects/blog-4-umbraco"><strong>Go to the Blog 4 Umbraco project page on our.umbraco.org</strong></a></p>
+</li>
+<li>
+<p>You can change the appearance of this blog by changing the skin in the umbraco back-end. The skins are powered by the umbraco community. If you wish to do your own skin or just want to tweak the current one, you can find guidance in the skinners guide</p>
+<p><strong><a href="http://our.umbraco.org/FileDownload?id=498">Download the skinners manual</a></strong></p>
+</li>
+<li>
+<p>Chainging the skin is just the first step, everything is extendable and hackable. This blog uses open standards and follows umbraco best practices, so everything can be tweaked. Want to know how to get started? Ask the friendly community at our.umbraco.org</p>
+<p><strong><a href="http://our.umbraco.org">Go to our.umbraco.org community</a></strong></p>
+</li>
+</ol>]]></bodyText>
+          <tags><![CDATA[]]></tags>
+          <closeComments>0</closeComments>
+          <PostDate>1900-01-01T00:00:00</PostDate>
+        </umbBlogPost>
+        <umbTextpage id="1064" parentID="1062" level="2" writerID="0" creatorID="0" nodeType="1058" template="1051" sortOrder="2" createDate="2010-09-07T11:21:54" updateDate="2010-11-25T13:40:45" nodeName="Archive" urlName="archive" writerName="Administrator" creatorName="Administrator" path="-1,1062,1064" isDoc="">
+          <bodyText><![CDATA[<p>
+<?UMBRACO_MACRO macroAlias="BlogFullArchive" />
+</p>]]></bodyText>
+          <umbracoNaviHide>0</umbracoNaviHide>
+          <asdasd><![CDATA[]]></asdasd>
+        </umbTextpage>
+        <umbTextpage id="1065" parentID="1062" level="2" writerID="0" creatorID="0" nodeType="1058" template="1051" sortOrder="3" createDate="2010-09-07T11:21:54" updateDate="2010-11-25T13:40:45" nodeName="Tag Cloud" urlName="tag-cloud" writerName="Administrator" creatorName="Administrator" path="-1,1062,1065" isDoc="">
+          <bodyText><![CDATA[<p>
+<?UMBRACO_MACRO macroAlias="BlogTagcloud" />
+</p>]]></bodyText>
+          <umbracoNaviHide>0</umbracoNaviHide>
+          <asdasd><![CDATA[]]></asdasd>
+        </umbTextpage>
+        <umbTextpage id="1066" parentID="1062" level="2" writerID="0" creatorID="0" nodeType="1058" template="1051" sortOrder="4" createDate="2010-09-07T11:21:54" updateDate="2010-11-25T13:40:45" nodeName="About" urlName="about" writerName="Administrator" creatorName="Administrator" path="-1,1062,1066" isDoc="">
+          <bodyText><![CDATA[<p>The Simple Starter Kit gives you a bare-bones website that introduces you to a set of well-defined conventions for building an Umbraco website.</p>
+<p>The Simple website is very basic in form and provided without any design or functionality - unless you add a Skin, of course. By installing the Simple Starter Kit, you'll begin with a minimal site built on best practices. You'll also enjoy the benefits of speaking the same "language" as the rest of the Umbraco community by using common properties and naming conventions.</p>
+<p>Now that you know what the Simple site is, it is time to get started using Umbraco.</p>]]></bodyText>
+          <umbracoNaviHide>0</umbracoNaviHide>
+          <asdasd><![CDATA[]]></asdasd>
+          <umbTextpage id="1067" parentID="1066" level="3" writerID="0" creatorID="0" nodeType="1058" template="1051" sortOrder="1" createDate="2010-09-07T11:21:54" updateDate="2010-11-25T13:40:45" nodeName="Installing runway modules" urlName="installing-runway-modules" writerName="Administrator" creatorName="Administrator" path="-1,1062,1066,1067" isDoc="">
+            <bodyText><![CDATA[<p>Umbraco modules encapsulate specific bits of advanced functionality that are easily added to your website.</p>
+<p>Once installed, Umbraco modules are open source and easy to customize if you want to modify the behavior for your specific needs.<br /> Because Umbraco modules are provided under the MIT license you are free to use and modify them any way you want, with no strings attached.</p>
+<p>To add Umbraco modules to your website, go to the <strong>Settings</strong> section, expand the <strong>Templates</strong> item, select the <strong>Starterkit Master</strong> template, then click the <strong>Customize Skin</strong> button on the toolbar.</p>
+<p>Umbraco modules are available for various kinds of navigation, a sitemap, social media feeds, and a contact form. The list of available Umbraco modules is growing rapidly and is automatically updated from a central source, always fresh and current.</p>
+<p><a href="http://umbraco.org/get-started" title="Get Started with Umbraco">Get more information</a> about the umbraco way.</p>]]></bodyText>
+            <umbracoNaviHide>0</umbracoNaviHide>
+            <asdasd><![CDATA[]]></asdasd>
+          </umbTextpage>
+          <umbTextpage id="1068" parentID="1066" level="3" writerID="0" creatorID="0" nodeType="1058" template="1051" sortOrder="2" createDate="2010-09-07T11:21:54" updateDate="2010-11-25T13:40:45" nodeName="Go further" urlName="go-further" writerName="Administrator" creatorName="Administrator" path="-1,1062,1066,1068" isDoc="">
+            <bodyText><![CDATA[<p>The Simple Starter Kit only scratches the surface of what's possible with Umbraco. Below the Simple Starter Kit and its modules lies a great architecture that lets you implement whatever you need.</p>
+<p>With Umbraco you've finally got a solid, open and reliable platform for websites as basic as the Simple site, and Umbraco can be rapidly expanded to support multi-language websites, collaboration platforms and intra/extranets, to name just a few.</p>
+<p>Advanced functionality is created with Umbraco macros, built with XSLT and Umbraco's award-winning .NET integration, including full support for any .NET User or Custom control. Create and integrate your own .NET macros in mere minutes with point and click simplicity. Simply copy your controls to the Umbraco website, go to the <strong>Developer</strong> section and create a new macro, selecting your control from the list.</p>
+<p>You can also use <a href="http://umbraco.org/help-and-support/video-tutorials/getting-started/working-with-webmatrix" title="Working with Razor">Microsoft's Razor</a> syntax to quickly add dynamic functionality to your site.</p>
+<p>We've also gathered the best community macros into a repository that's also accessed from the <strong>Developer</strong> section, in the <strong>Packages</strong> area. You can find more information <a href="http://umbraco.org/help-and-support/video-tutorials/introduction-to-umbraco/sitebuilder-introduction/what-are-macros" title="About creating Umbraco macros">about creating macros</a>, on the Umbraco website.</p>
+<p>The sky is the limit with Umbraco, and you have the benefit a friendly community, training, and guaranteed support. Find out how to <a href="http://umbraco.org/help-and-support" title="Get Umbraco Support">get help</a>.</p>]]></bodyText>
+            <umbracoNaviHide>0</umbracoNaviHide>
+            <asdasd><![CDATA[]]></asdasd>
+          </umbTextpage>
+          <umbTextpage id="1069" parentID="1066" level="3" writerID="0" creatorID="0" nodeType="1058" template="1051" sortOrder="3" createDate="2010-09-07T11:21:54" updateDate="2010-11-25T13:40:45" nodeName="Getting started" urlName="getting-started" writerName="Administrator" creatorName="Administrator" path="-1,1062,1066,1069" isDoc="">
+            <bodyText><![CDATA[<p>You've installed Umbraco and the basic Simple website.</p>
+<p>Edit the text on the homepage and create a site structure by adding new texpages to your site. This is all done in the <strong>Content</strong> section.</p>
+<p>If you find the editing options provided by the Simple site too limited for you needs, simply add more properties to the page by going to the <strong>Settings</strong> section, expanding the <strong>Document Types</strong> item and adding new properties on the <strong>Generic Properties</strong> tab. You can find more information about <a href="http://umbraco.org/help-and-support/video-tutorials/introduction-to-umbraco/sitebuilder-introduction/document-types" title="About Umbraco Document Types">document types and properties</a> at the <a href="http://umbraco.org" title="The Umbraco Website">Umbraco website</a>.</p>
+<p>You'll probably want to personalize your site by changing the current design. This is also done in the <strong>Settings</strong> section, either by editing the CSS styles and HTML templates or by selecting and applying a Skin. Umbraco uses master templates, so the main, common markup is placed in the <strong>Starterkit Master</strong> template, while the Homeage and Textpage have separate templates for their unique layouts. You can find more information about <a href="http://umbraco.org/help-and-support/video-tutorials/introduction-to-umbraco/sitebuilder-introduction/templates" title="Umbraco Templates and Stylesheets">templates and css</a> in umbraco at the umbraco website.</p>
+<p>Once you're happy with your site's design, you might want to add more functionality, such as automated navigation. This is done by <a href="http://umbraco.org/help-and-support/video-tutorials/getting-started" title="Umbraco Modules">installing Umbraco modules</a>.</p>]]></bodyText>
+            <umbracoNaviHide>0</umbracoNaviHide>
+            <asdasd><![CDATA[]]></asdasd>
+          </umbTextpage>
+        </umbTextpage>
+        <umbGallery id="1070" parentID="1062" level="2" writerID="0" creatorID="0" nodeType="1055" template="1044" sortOrder="5" createDate="2010-09-07T11:23:20" updateDate="2010-11-25T13:40:45" nodeName="Gallery" urlName="gallery" writerName="Administrator" creatorName="Administrator" path="-1,1062,1070" isDoc="">
+          <bodyText><![CDATA[<p>All your pictures</p>]]></bodyText>
+          <umbGalleryAlbum id="1071" parentID="1070" level="3" writerID="0" creatorID="0" nodeType="1056" template="1045" sortOrder="1" createDate="2010-09-07T11:23:38" updateDate="2010-11-25T13:40:45" nodeName="Codegarden 2010" urlName="codegarden-2010" writerName="Administrator" creatorName="Administrator" path="-1,1062,1070,1071" isDoc="">
+            <bodyText><![CDATA[<p>The annual Umbraco conference, Codegarden 2010</p>]]></bodyText>
+            <zipBulkUpload>/media/813/codegarden 2010.zip</zipBulkUpload>
+            <umbGalleryPhoto id="1072" parentID="1071" level="4" writerID="0" creatorID="0" nodeType="1057" template="0" sortOrder="1" createDate="2010-09-07T11:32:24" updateDate="2010-11-25T13:40:45" nodeName="The flag" urlName="the-flag" writerName="Administrator" creatorName="Administrator" path="-1,1062,1070,1071,1072" isDoc="">
+              <umbracoFile>/media/818/the flag.jpg</umbracoFile>
+              <umbracoExtension />
+              <umbracoBytes />
+              <description><![CDATA[Pirates at the Copenhagen canals]]></description>
+              <umbracoWidth />
+              <umbracoHeight />
+            </umbGalleryPhoto>
+            <umbGalleryPhoto id="1073" parentID="1071" level="4" writerID="0" creatorID="0" nodeType="1057" template="0" sortOrder="2" createDate="2010-09-07T11:32:29" updateDate="2010-11-25T13:40:45" nodeName="The banner" urlName="the-banner" writerName="Administrator" creatorName="Administrator" path="-1,1062,1070,1071,1073" isDoc="">
+              <umbracoFile>/media/824/the banner.jpg</umbracoFile>
+              <umbracoExtension />
+              <umbracoBytes />
+              <description><![CDATA[Umbraco Conference banner]]></description>
+              <umbracoWidth />
+              <umbracoHeight />
+            </umbGalleryPhoto>
+            <umbGalleryPhoto id="1074" parentID="1071" level="4" writerID="0" creatorID="0" nodeType="1057" template="0" sortOrder="3" createDate="2010-09-07T11:32:33" updateDate="2010-11-25T13:40:45" nodeName="The Crowd" urlName="the-crowd" writerName="Administrator" creatorName="Administrator" path="-1,1062,1070,1071,1074" isDoc="">
+              <umbracoFile>/media/836/the crowd.jpg</umbracoFile>
+              <umbracoExtension />
+              <umbracoBytes />
+              <description><![CDATA[Codegarden 2010 crowd]]></description>
+              <umbracoWidth />
+              <umbracoHeight />
+            </umbGalleryPhoto>
+            <umbGalleryPhoto id="1075" parentID="1071" level="4" writerID="0" creatorID="0" nodeType="1057" template="0" sortOrder="4" createDate="2010-09-07T11:32:52" updateDate="2010-11-25T13:40:45" nodeName="The vest" urlName="the-vest" writerName="Administrator" creatorName="Administrator" path="-1,1062,1070,1071,1075" isDoc="">
+              <umbracoFile>/media/842/the vest.jpg</umbracoFile>
+              <umbracoExtension />
+              <umbracoBytes />
+              <description><![CDATA[The extraordinary umbraco leather vest, worn by Chris Houston]]></description>
+              <umbracoWidth />
+              <umbracoHeight />
+            </umbGalleryPhoto>
+          </umbGalleryAlbum>
+          <umbGalleryAlbum id="1076" parentID="1070" level="3" writerID="0" creatorID="0" nodeType="1056" template="1045" sortOrder="2" createDate="2010-09-07T11:23:50" updateDate="2010-11-25T13:40:45" nodeName="Umbraco 5 year Birthday" urlName="umbraco-5-year-birthday" writerName="Administrator" creatorName="Administrator" path="-1,1062,1070,1076" isDoc="">
+            <bodyText><![CDATA[<p>The Umbraco 5 year celebration party in london, copenhagen, stockholm, oslo and amsterdam</p>]]></bodyText>
+            <zipBulkUpload />
+            <umbGalleryPhoto id="1077" parentID="1076" level="4" writerID="0" creatorID="0" nodeType="1057" template="0" sortOrder="1" createDate="2010-09-07T11:38:26" updateDate="2010-11-25T13:40:45" nodeName="The cake" urlName="the-cake" writerName="Administrator" creatorName="Administrator" path="-1,1062,1070,1076,1077" isDoc="">
+              <umbracoFile>/media/872/birthday2.jpg</umbracoFile>
+              <umbracoExtension />
+              <umbracoBytes />
+              <description><![CDATA[The umbraco birthday cake]]></description>
+              <umbracoWidth />
+              <umbracoHeight />
+            </umbGalleryPhoto>
+            <umbGalleryPhoto id="1078" parentID="1076" level="4" writerID="0" creatorID="0" nodeType="1057" template="0" sortOrder="2" createDate="2010-09-07T11:38:31" updateDate="2010-11-25T13:40:45" nodeName="The crowd" urlName="the-crowd" writerName="Administrator" creatorName="Administrator" path="-1,1062,1070,1076,1078" isDoc="">
+              <umbracoFile>/media/878/birthday3.jpg</umbracoFile>
+              <umbracoExtension />
+              <umbracoBytes />
+              <description><![CDATA[The birthday guests]]></description>
+              <umbracoWidth />
+              <umbracoHeight />
+            </umbGalleryPhoto>
+            <umbGalleryPhoto id="1079" parentID="1076" level="4" writerID="0" creatorID="0" nodeType="1057" template="0" sortOrder="3" createDate="2010-09-07T11:38:37" updateDate="2010-11-25T13:40:45" nodeName="London Eye" urlName="london-eye" writerName="Administrator" creatorName="Administrator" path="-1,1062,1070,1076,1079" isDoc="">
+              <umbracoFile>/media/902/birthday4.jpg</umbracoFile>
+              <umbracoExtension />
+              <umbracoBytes />
+              <description><![CDATA[The london eye]]></description>
+              <umbracoWidth />
+              <umbracoHeight />
+            </umbGalleryPhoto>
+            <umbGalleryPhoto id="1080" parentID="1076" level="4" writerID="0" creatorID="0" nodeType="1057" template="0" sortOrder="4" createDate="2010-09-07T11:38:58" updateDate="2010-11-25T13:40:45" nodeName="Party hats" urlName="party-hats" writerName="Administrator" creatorName="Administrator" path="-1,1062,1070,1076,1080" isDoc="">
+              <umbracoFile>/media/890/birthday1.jpg</umbracoFile>
+              <umbracoExtension />
+              <umbracoBytes />
+              <description><![CDATA[Party hats]]></description>
+              <umbracoWidth />
+              <umbracoHeight />
+            </umbGalleryPhoto>
+          </umbGalleryAlbum>
+        </umbGallery>
+        <umbTextpage id="1081" parentID="1062" level="2" writerID="0" creatorID="0" nodeType="1058" template="1051" sortOrder="6" createDate="2010-09-07T12:15:55" updateDate="2010-11-25T13:40:45" nodeName="Contact Me" urlName="contact-me" writerName="Administrator" creatorName="Administrator" path="-1,1062,1081" isDoc="">
+          <bodyText><![CDATA[<p>This contact form sends email to the addresse configured on the macro itself, edit the page in umbraco to change the addresse</p>
+<p>Also ensure that your smtp email settings are correct, these are set in the <strong>web.config </strong>file located in the root of your website.</p>
+<?UMBRACO_MACRO subject="Email from your website" youremail="name@domain.com" macroAlias="RunwayContactForm" />]]></bodyText>
+          <umbracoNaviHide>0</umbracoNaviHide>
+          <asdasd><![CDATA[]]></asdasd>
+        </umbTextpage>
+      </umbBlog>
+    </DocumentSet>
+  </Documents>
+  <DocumentTypes>
+    <DocumentType>
+      <Info>
+        <Name>Blog</Name>
+        <Alias>umbBlog</Alias>
+        <Icon>.sprTreeFolder</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowedTemplates>
+          <Template>umbHomepage</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>umbHomepage</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>DateFolder</DocumentType>
+        <DocumentType>umbBlogPost</DocumentType>
+        <DocumentType>umbGallery</DocumentType>
+        <DocumentType>umbTextpage</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Site name</Name>
+          <Alias>siteName</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Settings</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Site description</Name>
+          <Alias>siteDescription</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Settings</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Blogroll</Name>
+          <Alias>blogroll</Alias>
+          <Type>71b8ad1a-8dc2-425c-b6b8-faa158075e63</Type>
+          <Definition>21e798da-e06e-4eda-a511-ed257f78d4fa</Definition>
+          <Tab>Blogroll</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Akismet API Key</Name>
+          <Alias>akismetAPIKey</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>Spam settings</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Enter a valid WP.com API key(http://en.wordpress.com/api-keys/) and your blog will be protected from spam by using the Akismet anti-spam service.]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Owner</Name>
+          <Alias>owner</Alias>
+          <Type>e66af4a0-e8b4-11de-8a39-0800200c9a66</Type>
+          <Definition>50d985c6-41fe-4bf2-90c1-e421907f54d2</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Services to ping</Name>
+          <Alias>pingServices</Alias>
+          <Type>71b8ad1a-8dc2-425c-b6b8-faa158075e63</Type>
+          <Definition>21e798da-e06e-4eda-a511-ed257f78d4fa</Definition>
+          <Tab>Pings</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[Automatically notify blog directories and search engines that your blog has been updated]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Body text</Name>
+          <Alias>bodyText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>ca90c950-0aff-4e72-b976-a30b1ac57dad</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>6</Id>
+          <Caption>Content</Caption>
+        </Tab>
+        <Tab>
+          <Id>7</Id>
+          <Caption>Settings</Caption>
+        </Tab>
+        <Tab>
+          <Id>8</Id>
+          <Caption>Blogroll</Caption>
+        </Tab>
+        <Tab>
+          <Id>9</Id>
+          <Caption>Spam settings</Caption>
+        </Tab>
+        <Tab>
+          <Id>10</Id>
+          <Caption>Pings</Caption>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Blog Post</Name>
+        <Alias>umbBlogPost</Alias>
+        <Icon>.sprTreeDoc3</Icon>
+        <Thumbnail>doc.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowedTemplates>
+          <Template>umbBlogpost</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>umbBlogpost</DefaultTemplate>
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Content</Name>
+          <Alias>bodyText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>ca90c950-0aff-4e72-b976-a30b1ac57dad</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Tags</Name>
+          <Alias>tags</Alias>
+          <Type>4023e540-92f5-11dd-ad8b-0800200c9a66</Type>
+          <Definition>b6b73142-b9c1-4bf8-a16d-e1c23320b549</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Close comments</Name>
+          <Alias>closeComments</Alias>
+          <Type>38b352c1-e9f8-4fd8-9324-9a2eab06d97a</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>Options</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Post Date</Name>
+          <Alias>PostDate</Alias>
+          <Type>23e93522-3200-44e2-9f29-e61a6fcbb79a</Type>
+          <Definition>5046194e-4237-453c-a547-15db3a07c4e1</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>True</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>11</Id>
+          <Caption>Content</Caption>
+        </Tab>
+        <Tab>
+          <Id>12</Id>
+          <Caption>Options</Caption>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>DateFolder</Name>
+        <Alias>DateFolder</Alias>
+        <Icon>.sprTreeFolder</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowedTemplates>
+          <Template>umbBlogDatefolder</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>umbBlogDatefolder</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>umbBlogPost</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Hide from navigation</Name>
+          <Alias>umbracoNaviHide</Alias>
+          <Type>38b352c1-e9f8-4fd8-9324-9a2eab06d97a</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs />
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Gallery</Name>
+        <Alias>umbGallery</Alias>
+        <Icon>.sprTreeDocPic</Icon>
+        <Thumbnail>folder.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowedTemplates>
+          <Template>Gallery</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>Gallery</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>umbGalleryAlbum</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Content</Name>
+          <Alias>bodyText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>ca90c950-0aff-4e72-b976-a30b1ac57dad</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>13</Id>
+          <Caption>Content</Caption>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Gallery Album</Name>
+        <Alias>umbGalleryAlbum</Alias>
+        <Icon>.sprTreeFolder</Icon>
+        <Thumbnail>folder_media.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowedTemplates>
+          <Template>Gallery Album</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>Gallery Album</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>umbGalleryPhoto</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Content</Name>
+          <Alias>bodyText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>ca90c950-0aff-4e72-b976-a30b1ac57dad</Definition>
+          <Tab>Description</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Upload zip file with images</Name>
+          <Alias>zipBulkUpload</Alias>
+          <Type>5032a6e6-69e3-491d-bb28-cd31cd11086c</Type>
+          <Definition>84c6b441-31df-4ffe-b67e-67d5bc3ae65a</Definition>
+          <Tab>Bulk upload</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[If you have a zip file that contains jpgs, gif or pngs they can be added as images automatically]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>14</Id>
+          <Caption>Description</Caption>
+        </Tab>
+        <Tab>
+          <Id>15</Id>
+          <Caption>Bulk upload</Caption>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Gallery Photo</Name>
+        <Alias>umbGalleryPhoto</Alias>
+        <Icon>.sprTreeMediaPhoto</Icon>
+        <Thumbnail>docWithImage.png</Thumbnail>
+        <Description>
+        </Description>
+        <AllowedTemplates />
+        <DefaultTemplate>
+        </DefaultTemplate>
+      </Info>
+      <Structure />
+      <GenericProperties>
+        <GenericProperty>
+          <Name>File</Name>
+          <Alias>umbracoFile</Alias>
+          <Type>5032a6e6-69e3-491d-bb28-cd31cd11086c</Type>
+          <Definition>84c6b441-31df-4ffe-b67e-67d5bc3ae65a</Definition>
+          <Tab>Photo</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Extension</Name>
+          <Alias>umbracoExtension</Alias>
+          <Type>ec15c1e5-9d90-422a-aa52-4f7622c63bea</Type>
+          <Definition>0cc0eba1-9960-42c9-bf9b-60e150b429ae</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Size</Name>
+          <Alias>umbracoBytes</Alias>
+          <Type>1413afcb-d19a-4173-8e9a-68288d2a73b8</Type>
+          <Definition>2e6d3631-066e-44b8-aec4-96f09099b2b5</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Description</Name>
+          <Alias>description</Alias>
+          <Type>67db8357-ef57-493e-91ac-936d305e0f2a</Type>
+          <Definition>c6bac0dd-4ab9-45b1-8e30-e4b619ee5da3</Definition>
+          <Tab>Photo</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Width</Name>
+          <Alias>umbracoWidth</Alias>
+          <Type>1413afcb-d19a-4173-8e9a-68288d2a73b8</Type>
+          <Definition>2e6d3631-066e-44b8-aec4-96f09099b2b5</Definition>
+          <Tab>Photo</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Height</Name>
+          <Alias>umbracoHeight</Alias>
+          <Type>1413afcb-d19a-4173-8e9a-68288d2a73b8</Type>
+          <Definition>2e6d3631-066e-44b8-aec4-96f09099b2b5</Definition>
+          <Tab>Photo</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>16</Id>
+          <Caption>Photo</Caption>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+    <DocumentType>
+      <Info>
+        <Name>Textpage</Name>
+        <Alias>umbTextpage</Alias>
+        <Icon>.sprTreeDoc</Icon>
+        <Thumbnail>doc.png</Thumbnail>
+        <Description>This is the standard content page for a starter kit website.</Description>
+        <AllowedTemplates>
+          <Template>umbTextpage</Template>
+        </AllowedTemplates>
+        <DefaultTemplate>umbTextpage</DefaultTemplate>
+      </Info>
+      <Structure>
+        <DocumentType>umbTextpage</DocumentType>
+      </Structure>
+      <GenericProperties>
+        <GenericProperty>
+          <Name>Body Text</Name>
+          <Alias>bodyText</Alias>
+          <Type>5e9b75ae-face-41c8-b47e-5f4b0fd82f83</Type>
+          <Definition>ca90c950-0aff-4e72-b976-a30b1ac57dad</Definition>
+          <Tab>Content</Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+        <GenericProperty>
+          <Name>Hide in navigation</Name>
+          <Alias>umbracoNaviHide</Alias>
+          <Type>38b352c1-e9f8-4fd8-9324-9a2eab06d97a</Type>
+          <Definition>92897bc6-a5f3-4ffe-ae27-f2e7e33dda49</Definition>
+          <Tab>
+          </Tab>
+          <Mandatory>False</Mandatory>
+          <Validation>
+          </Validation>
+          <Description><![CDATA[]]></Description>
+        </GenericProperty>
+      </GenericProperties>
+      <Tabs>
+        <Tab>
+          <Id>17</Id>
+          <Caption>Content</Caption>
+        </Tab>
+      </Tabs>
+    </DocumentType>
+  </DocumentTypes>
+  <Templates>
+    <Template>
+      <Name>Blog Datefolder</Name>
+      <Alias>umbBlogDatefolder</Alias>
+      <Master>umbMaster</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="~/masterpages/umbMaster.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="cp_content" runat="server">
+  <div id="content" class="textpage">
+    <umbraco:Macro Alias="BlogListPosts" runat="server"></umbraco:Macro>
+  </div>
+</asp:Content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Blog post</Name>
+      <Alias>umbBlogpost</Alias>
+      <Master>umbMaster</Master>
+      <Design><![CDATA[<%@ master language="C#" masterpagefile="~/masterpages/umbMaster.master" autoeventwireup="true" %>
+
+  
+<asp:content contentplaceholderid="cp_head" runat="server">
+  <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.4.4.min.js"></script>
+  <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.5.5/jquery.validate.min.js"></script>
+</asp:content>
+  
+<asp:content contentplaceholderid="cp_content" runat="server">
+
+<div id="content" class="textpage">
+  
+<div class="hentry p1 post publish">
+<h2 class="entry-title"><umbraco:Item field="pageName" runat="server"></umbraco:Item></h2>
+
+<div class="entry-date">
+  <abbr class='published' title='<umbraco:Item field="PostDate" useIfEmpty="createDate" formatAsDate="true" runat="server"/>'>
+        <umbraco:Item field="PostDate" useIfEmpty="createDate" formatAsDate="true" runat="server"/>
+    </abbr>
+</div>
+
+<div class="entry-content">
+<umbraco:Item field="bodyText" runat="server"></umbraco:Item>
+</div>
+
+<div class="entry-meta">
+This entry was written by <span class="author vcard"><spam class="fn n"><umbraco:Item field="writerName" runat="server"/></span></span>,
+posted on <abbr class="published" title='<umbraco:Item ID="Item1" field="PostDate" formatAsDate="true" runat="server"/>'><umbraco:Item field="PostDate" formatAsDate="true" runat="server"/></abbr>
+
+Bookmark the <a href='<umbraco:Item field="pageID" runat="server" xslt="umbraco.library:NiceUrl({0})"></umbraco:Item>' title="Permalink" rel="bookmark">permalink</a>.
+
+Follow any comments here with the
+<umbraco:Item field="pageID" runat="server" xslt="concat('&lt;a href=&quot;',umbraco.library:Replace(umbraco.library:NiceUrl({0}),'.aspx',''),'/commentrss.aspx','&quot; title=&quot;Comments RSS&quot; rel=&quot;alternate&quot; type=&quot;application/rss+xml&quot;&gt;','RSS feed for this post','&lt;/a&gt;')" xsltDisableEscaping="true" ></umbraco:Item>.
+    You can <a class="comment-link" href="#respond" title="Post a comment">post a comment</a>.
+
+</div>
+  
+</div>
+
+<div id="related">
+<umbraco:Macro Alias="BlogpostRelatedPages" runat="server"></umbraco:Macro>
+</div>
+
+<div id="comments">
+<umbraco:Macro Alias="BlogPostListComments" runat="server"></umbraco:Macro>
+
+<div id="respond">
+<h3>Post a comment</h3>
+<umbraco:Macro CommentsClosedMessage="Sorry, comments are closed" Alias="frmBlogComment" runat="server"></umbraco:Macro>
+</div>
+
+</div>
+
+</div>
+
+<div id="subNavigation">
+      <umbraco:Macro Alias="umb2ndLevelNavigation" runat="server"></umbraco:Macro>
+</div>
+
+</asp:content>]]></Design>
+    </Template>
+    <Template>
+      <Name>CommentRss</Name>
+      <Alias>CommentRss</Alias>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="~/umbraco/masterpages/default.master" AutoEventWireup="true" %>
+<asp:Content ContentPlaceHolderID="ContentPlaceHolderDefault" runat="server"><umbraco:Macro iscommentfeed="1" Alias="BlogRss" runat="server"></umbraco:Macro></asp:Content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Gallery</Name>
+      <Alias>Gallery</Alias>
+      <Master>umbMaster</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="~/masterpages/umbMaster.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="cp_content" runat="server">
+<div id="content">
+      <div id="contentHeader">  
+          <h2><umbraco:Item runat="server" field="pageName"/></h2>
+      </div>
+  <umbraco:Item runat="server" field="bodyText" />
+  <!-- list albums -->
+  <umbraco:Macro Alias="GalleryListAlbums" runat="server"></umbraco:Macro>
+</div>
+</asp:Content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Gallery Album</Name>
+      <Alias>Gallery Album</Alias>
+      <Master>umbMaster</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="~/masterpages/umbMaster.master" AutoEventWireup="true" %>
+
+<asp:Content ContentPlaceHolderID="cp_content" runat="server">
+<div id="content">
+      <div id="contentHeader">  
+          <h2><umbraco:Item runat="server" field="pageName"/></h2>
+      </div>
+  <umbraco:Item runat="server" field="bodyText" />
+  <!-- list photos -->
+  <umbraco:Macro Alias="GalleryListPhotos" runat="server"></umbraco:Macro>
+</div>
+</asp:Content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Homepage</Name>
+      <Alias>umbHomepage</Alias>
+      <Master>umbMaster</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="~/masterpages/umbMaster.master" AutoEventWireup="true" %>
+<asp:Content ContentPlaceHolderID="cp_content" runat="server">
+  <div id="content" class="frontPage">
+    <umbraco:Item runat="server" field="bodyText"/>
+  </div>
+</asp:Content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Rss</Name>
+      <Alias>Rss</Alias>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="~/umbraco/masterpages/default.master" AutoEventWireup="true" %>
+<asp:Content ContentPlaceHolderID="ContentPlaceHolderDefault" runat="server"><umbraco:Macro Alias="BlogRss" runat="server"></umbraco:Macro>
+</asp:Content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Starterkit Master</Name>
+      <Alias>umbMaster</Alias>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="~/umbraco/masterpages/default.master" AutoEventWireup="true" %>
+<asp:Content ContentPlaceHolderID="ContentPlaceHolderDefault" runat="server">
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"[]> 
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head id="head" runat="server">
+    
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+  <title><asp:placeholder runat="server"><umbraco:Item runat="server" field="pageName" /> - <umbraco:Item runat="server" field="siteName" recursive="true" /></asp:placeholder></title>
+    
+  <link rel="stylesheet" type="text/css" href="/css/Starterkit.css" /> 
+  
+  <umbraco:Macro Alias="BlogRssFeedLink" runat="server"></umbraco:Macro>
+    
+  <asp:contentplaceholder id="cp_head" runat="server" />
+</head>
+  <body>    
+    <div id="main">
+      
+      <asp:contentplaceholder id="cp_top" runat="server">
+        <div id="top">
+          <h1 id="siteName"><a href="/"><umbraco:Item runat="server" field="siteName" recursive="true" /></a></h1>
+          <h2 id="siteDescription"><umbraco:Item runat="server" field="siteDescription" recursive="true" /></h2>
+        
+          <umbraco:Macro Alias="umbTopNavigation" runat="server" />
+        </div>
+      </asp:contentplaceholder>
+            
+      <div id="body" class="clearfix">
+          <form id="RunwayMasterForm" runat="server">
+            <asp:ContentPlaceHolder ID="cp_content" runat="server"></asp:ContentPlaceHolder>
+          </form>
+      </div> 
+      
+      <asp:contentplaceholder id="cp_footer" runat="server">
+        <div id="footer"></div>
+      </asp:contentplaceholder>
+    </div>
+  </body>
+</html> 
+</asp:content>]]></Design>
+    </Template>
+    <Template>
+      <Name>Textpage</Name>
+      <Alias>umbTextpage</Alias>
+      <Master>umbMaster</Master>
+      <Design><![CDATA[<%@ Master Language="C#" MasterPageFile="~/masterpages/umbMaster.master" AutoEventWireup="true" %>
+<asp:Content ContentPlaceHolderID="cp_content" runat="server">
+
+<div id="content" class="textpage">
+  
+      <div id="contentHeader">  
+          <h2><umbraco:Item runat="server" field="pageName"/></h2>
+      </div>
+      
+      <umbraco:Item runat="server" field="bodyText" />
+</div>
+
+<div id="subNavigation">
+      <umbraco:Macro Alias="umb2ndLevelNavigation" runat="server"></umbraco:Macro>
+</div>
+  
+
+</asp:Content>]]></Design>
+    </Template>
+  </Templates>
+  <Stylesheets>
+    <Stylesheet>
+      <Name>jQueryLightbox</Name>
+      <FileName>
+      </FileName>
+      <Content><![CDATA[/**
+ * jQuery lightBox plugin
+ * This jQuery plugin was inspired and based on Lightbox 2 by Lokesh Dhakar (http://www.huddletogether.com/projects/lightbox2/)
+ * and adapted to me for use like a plugin from jQuery.
+ * @name jquery-lightbox-0.5.css
+ * @author Leandro Vieira Pinho - http://leandrovieira.com
+ * @version 0.5
+ * @date April 11, 2008
+ * @category jQuery plugin
+ * @copyright (c) 2008 Leandro Vieira Pinho (leandrovieira.com)
+ * @license CC Attribution-No Derivative Works 2.5 Brazil - http://creativecommons.org/licenses/by-nd/2.5/br/deed.en_US
+ * @example Visit http://leandrovieira.com/projects/jquery/lightbox/ for more informations about this jQuery plugin
+ */
+#jquery-overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 90;
+	width: 100%;
+	height: 500px;
+}
+#jquery-lightbox {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 100;
+	text-align: center;
+	line-height: 0;
+}
+#jquery-lightbox a img { border: none; }
+#lightbox-container-image-box {
+	position: relative;
+	background-color: #fff;
+	width: 250px;
+	height: 250px;
+	margin: 0 auto;
+}
+#lightbox-container-image { padding: 10px; }
+#lightbox-loading {
+	position: absolute;
+	top: 40%;
+	left: 0%;
+	height: 25%;
+	width: 100%;
+	text-align: center;
+	line-height: 0;
+}
+#lightbox-nav {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	z-index: 10;
+}
+#lightbox-container-image-box > #lightbox-nav { left: 0; }
+#lightbox-nav a { outline: none;}
+#lightbox-nav-btnPrev, #lightbox-nav-btnNext {
+	width: 49%;
+	height: 100%;
+	zoom: 1;
+	display: block;
+}
+#lightbox-nav-btnPrev { 
+	left: 0; 
+	float: left;
+}
+#lightbox-nav-btnNext { 
+	right: 0; 
+	float: right;
+}
+#lightbox-container-image-data-box {
+	font: 10px Verdana, Helvetica, sans-serif;
+	background-color: #fff;
+	margin: 0 auto;
+	line-height: 1.4em;
+	overflow: auto;
+	width: 100%;
+	padding: 0 10px 0;
+}
+#lightbox-container-image-data {
+	padding: 0 10px; 
+	color: #666; 
+}
+#lightbox-container-image-data #lightbox-image-details { 
+	width: 70%; 
+	float: left; 
+	text-align: left; 
+}	
+#lightbox-image-details-caption { font-weight: bold; }
+#lightbox-image-details-currentNumber {
+	display: block; 
+	clear: left; 
+	padding-bottom: 1.0em;	
+}			
+#lightbox-secNav-btnClose {
+	width: 66px; 
+	float: right;
+	padding-bottom: 0.7em;	
+}
+
+
+
+
+
+
+
+]]></Content>
+    </Stylesheet>
+    <Stylesheet>
+      <Name>Starterkit</Name>
+      <FileName>
+      </FileName>
+      <Content><![CDATA[/*LAYOUT*/
+
+body{text-align: left; padding: 0px; margin: 0px; background: #F6F7F9;}
+
+#main{margin: auto; margin-top: 20px; text-align: left; width: 870px;}
+
+#top{border-bottom: 1px solid #CED7DE;}
+
+#top ul{list-style: none; padding: 0px 0px 15px 0px; margin: 0px;}
+#top ul li{display: inline; margin: 0px; padding: 0xp;}
+#top ul li a{padding: 10px 20px 10px 0px; color: #000}
+
+#top ul li.current a{font-weight: bold}
+
+#body{margin: auto; padding: 2em 0em 2em 0em;}
+#footer{padding-top: 5px; clear: both;}
+
+/* Subpages layout */
+#content.textpage{text-align: left; float: left; width: 75%;}
+#subNavigation{margin-top: 40px; width: 22%; float: right;} 
+#subNavigation ul{list-style: none; border: 1px solid #FFE8CD; background: #FFF9D8; display: block; padding: 10px; padding-left: 0px;}
+#subNavigation ul li{margin: 0; padding: 0px; padding-right: 10px;}
+
+/* FONTS standards */
+body {font-size: 14px; background:#fff; font-family: "Lucida Grande", Arial, sans-serif;}
+
+h1, h2, h3, h4, h5, h6 {color: #426FC8; font-weight: 500;}
+h1 {font-size:60px; line-height: 1; margin-bottom:0.5em; font-weight: bold; letter-spacing: -1px; width: auto; color: #666;}
+h2 {font-size:25px; margin-bottom:0.75em;}
+
+h3 {font-size: 18px;line-height:1;margin-bottom:1em;}
+h4 {font-size:1.2em;line-height:1.25;margin-bottom:1.25em;}
+h5 {font-size:1em;font-weight:bold;margin-bottom:1.5em;}
+h6 {font-size:1em;font-weight:bold;}
+h1 img, h2 img, h3 img, h4 img, h5 img, h6 img {margin:0;}
+
+p {margin:0 0 1.5em; font-size: 16px;}
+p img {float:left;margin:1.5em 1.5em 1.5em 0;padding:0;}
+p img.right {float:right;margin:1.5em 0 1.5em 1.5em;}
+
+/* LINKS standards */
+a:hover {color:#000;}
+a {color: #426FC8; text-decoration:underline;}
+h1 a{color: #666; text-decoration: none;}
+
+/* ELEMENTS standards */
+blockquote {margin:1.5em;color:#666;font-style:italic;}
+strong {font-weight:bold;}
+em, dfn {font-style:italic;}
+dfn {font-weight:bold;}
+sup, sub {line-height:0;}
+abbr, acronym {border-bottom:1px dotted #666;}
+address {margin:0 0 1.5em;font-style:italic;}
+del {color:#666;}
+pre, code {margin:1.5em 0;white-space:pre;}
+pre, code, tt {font:1em 'andale mono', 'lucida console', monospace;line-height:1.5;}
+li ul, li ol {margin:0 1.5em;}
+ul, ol {margin:0 1.5em 1.5em 1.5em;}
+ul {list-style-type:disc;}
+ol {list-style-type:decimal;}
+dl {margin:0 0 1.5em 0;}
+dl dt {font-weight:bold;}
+dd {margin-left:1.5em;}
+table {margin-bottom:1.4em;width:100%;}
+th {font-weight:bold;background:#C3D9FF;}
+th, td {padding:4px 10px 4px 5px;}
+tr.even td {background:#E5ECF9;}
+tfoot {font-style:italic;}
+caption {background:#eee;}
+
+/* FORM ELEMENTS */
+label {font-weight:bold;}
+fieldset {padding:1.4em;margin:0 0 1.5em 0;border:1px solid #ccc;}
+legend {font-weight:bold;font-size:1.2em;}
+input.text, input.title, textarea, select {margin:0.5em 0;border:1px solid #bbb;}
+input.text:focus, input.title:focus, textarea:focus, select:focus {border:1px solid #666;}
+input.text, input.title {width:300px;padding:5px;}
+input.title {font-size:1.5em;}
+textarea {width:300px;height:250px;padding:5px;}
+.error, .notice, .success {padding:.8em;margin-bottom:1em;border:2px solid #ddd;}
+.error {background:#FBE3E4;color:#8a1f11;border-color:#FBC2C4;}
+.notice {background:#FFF6BF;color:#514721;border-color:#FFD324;}
+.success {background:#E6EFC2;color:#264409;border-color:#C6D880;}
+.error a {color:#8a1f11;}
+.notice a {color:#514721;}
+.success a {color:#264409;}
+
+.error ul{margin-bottom: 0; padding-bottom: 0;}
+
+
+/*BLOG STYLES */
+#content .post{text-align: left;}
+
+/* Clear fix to repleace br clear:both */ 
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+ 
+.clearfix {
+  display: inline-block;
+}
+ 
+html[xmlns] .clearfix {
+  display: block;
+}
+ 
+* html .clearfix {
+  height: 1%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></Content>
+    </Stylesheet>
+    <Stylesheet>
+      <Name>StarterkitGallery</Name>
+      <FileName>
+      </FileName>
+      <Content><![CDATA[.umbGallery {
+  list-style: none;
+  display: block;
+  margin: auto;
+  padding: 0;
+  }
+
+.umbGallery li {
+  float: left;
+  display: inline;
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+  width: 110px;
+  height: 120px;
+  color: #999;
+  border: 1px solid #ced7de;
+  background-color: #fff;
+  }
+
+.umbGallery li div{height: 102px;}
+
+.umbGallery a {
+  text-decoration: none;
+  }
+
+.umbGallery a b {
+  text-decoration: auto;
+  }
+.umbGallery a img {
+  border: 1px solid #999;
+  text-decoration: none;
+  }
+
+
+
+
+
+
+
+
+
+
+
+]]></Content>
+    </Stylesheet>
+  </Stylesheets>
+  <Macros>
+    <macro>
+      <name>2nd Level Navigation</name>
+      <alias>umb2ndLevelNavigation</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>umb2ndLevelNavigation.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>Blog Archive</name>
+      <alias>BlogArchive</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>umbBlogArchive.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>Blog Blogroll</name>
+      <alias>BlogBlogroll</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>umbBlogroll.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>Blog Categories</name>
+      <alias>BlogCategories</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>umbBlogCategories.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>Blog Comment Form</name>
+      <alias>frmBlogComment</alias>
+      <scriptType>usercontrols/Blog/AjaxCommentForm.ascx</scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>
+      </xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties>
+        <property name="Comments Closed Message" alias="CommentsClosedMessage" show="True" propertyType="text" />
+      </properties>
+    </macro>
+    <macro>
+      <name>Blog Full Archive</name>
+      <alias>BlogFullArchive</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>umbBlogFullArchive.xslt</xslt>
+      <useInEditor>True</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>Blog Latest Comments</name>
+      <alias>BlogLatestComments</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>umbBlogLatestComments.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>Blog List Posts</name>
+      <alias>BlogListPosts</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>umbBlogListPosts.xslt</xslt>
+      <useInEditor>True</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>Blog Meta Weblog Channel</name>
+      <alias>BlogMetaWeblogChannel</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>umbBlogMetaWeblogChannel.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>Blog Post List Comments</name>
+      <alias>BlogPostListComments</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>umbBlogPostListComments.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>Blog Rss</name>
+      <alias>BlogRss</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>umbBlogRss.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties>
+        <property name="iscommentfeed" alias="iscommentfeed" show="True" propertyType="bool" />
+      </properties>
+    </macro>
+    <macro>
+      <name>Blog Rss Feed Link</name>
+      <alias>BlogRssFeedLink</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>umbBlogRssFeedLink.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>Blog Tagcloud</name>
+      <alias>BlogTagcloud</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>umbBlogTagcloud.xslt</xslt>
+      <useInEditor>True</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>Blogpages</name>
+      <alias>Blogpages</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>umbBlogpages.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>Blogpost Related Pages</name>
+      <alias>BlogpostRelatedPages</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>umbBlogpostRelatedPages.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>Contact Form</name>
+      <alias>RunwayContactForm</alias>
+      <scriptType>usercontrols/RunwayContactForm/Contact.ascx</scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>
+      </xslt>
+      <useInEditor>True</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties>
+        <property name="Subject" alias="Subject" show="True" propertyType="text" />
+        <property name="Your Email" alias="YourEmail" show="True" propertyType="text" />
+      </properties>
+    </macro>
+    <macro>
+      <name>Gallery List Albums</name>
+      <alias>GalleryListAlbums</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>galleryListAlbums.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>Gallery List Photos</name>
+      <alias>GalleryListPhotos</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>galleryListPhotos.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>News List Items</name>
+      <alias>umbNewsListItems</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>umbNewsListItems.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+    <macro>
+      <name>Top Navigation</name>
+      <alias>umbTopNavigation</alias>
+      <scriptType>
+      </scriptType>
+      <scriptAssembly>
+      </scriptAssembly>
+      <xslt>umbTopNavigation.xslt</xslt>
+      <useInEditor>False</useInEditor>
+      <refreshRate>0</refreshRate>
+      <scriptingFile>
+      </scriptingFile>
+      <properties />
+    </macro>
+  </Macros>
+  <DictionaryItems />
+  <Languages />
+  <DataTypes>
+    <DataType Name="Author Picker" Id="e66af4a0-e8b4-11de-8a39-0800200c9a66" Definition="50d985c6-41fe-4bf2-90c1-e421907f54d2">
+      <PreValues />
+    </DataType>
+  </DataTypes>
+  <control>/usercontrols/Blog/BlogInstaller.ascx</control>
+  <Actions>
+    <Action runat="install" alias="addXsltExtension" assembly="umbraco.editorControls" type="umbraco.editorControls.tags.library" extensionAlias="tagsLib" />
+    <Action runat="install" alias="addXsltExtension" assembly="Runway.Blog" type="Runway.Blog.BlogLibrary" extensionAlias="BlogLibrary" />
+    <Action runat="install" alias="blog_addRestExtension">
+      <ext assembly="Runway.Blog" type="Runway.Blog.Library.Base" alias="umbBlog">
+        <permission method="CreateComment" returnXml="false" allowAll="true" />
+        <permission method="GetGravatarImage" returnXml="false" allowAll="true" />
+      </ext>
+    </Action>
+    <Action runat="install" undo="true" alias="AddUrlRewriteRule">
+      <add name="rsstagrewrite" virtualUrl="^~/blog/rss/tags/(.*).aspx" rewriteUrlParameter="ExcludeFromClientQueryString" destinationUrl="~/blog/rss.aspx?tag=$1" ignoreCase="true" />
+    </Action>
+    <Action runat="install" alias="addDashboardSection" dashboardAlias="Comments">
+      <section>
+        <areas>
+          <area>content</area>
+        </areas>
+        <tab caption="Comments">
+          <control>/usercontrols/blog/CommentModeration.ascx</control>
+        </tab>
+      </section>
+    </Action>
+    <Action runat="install" alias="blog_executeNonQuery">
+     <Sqlserver>
+                  <![CDATA[      	
+          		CREATE TABLE [Comment](
+          			  [id] [int] IDENTITY(1,1) NOT NULL CONSTRAINT [PK_Comment] PRIMARY KEY ,
+          			  [mainid] [int] NOT NULL,
+          			  [nodeid] [int] NOT NULL,
+          			  [name] [nvarchar](250) NULL,
+          			  [email] [nvarchar](250) NULL,
+          			  [website] [nvarchar](250) NULL,
+          			  [comment] [ntext] NULL,
+          			  [spam] [bit] NULL,
+          			  [ham] [bit] NULL,
+          			  [created] [datetime] NULL
+          				);
+		  ]]></Sqlserver>
+      <VistaDB><![CDATA[
+		  CREATE TABLE [Comment]
+		  (
+		  [id] INT NOT NULL PRIMARY KEY,
+		  [mainid] INT NOT NULL,
+		  [nodeid] INT NOT NULL,
+		  [name] NVARCHAR (250),
+		  [email] NVARCHAR (250),
+		  [website] NVARCHAR (250),
+		  [comment] NTEXT,
+		  [spam] BIT,
+		  [ham] BIT,
+		  [created] DATETIME
+		  );
+
+		  ALTER TABLE [Comment]
+		  ALTER COLUMN [id] INT NOT NULL IDENTITY (1, 1);
+		  ]]></VistaDB>
+      <MySQL><![CDATA[
+		  CREATE TABLE Comment (
+		  id INTEGER UNSIGNED DEFAULT NULL AUTO_INCREMENT,
+		  mainid INTEGER UNSIGNED NOT NULL,
+		  nodeid INTEGER UNSIGNED NOT NULL,
+		  name VARCHAR(250),
+		  email VARCHAR(250),
+		  website VARCHAR(250),
+		  comment TEXT,
+		  spam BOOLEAN,
+		  ham BOOLEAN,
+		  created DATETIME,
+		  PRIMARY KEY (id)
+		  );
+		  ]]></MySQL>
+    </Action>
+    <Action runat="install" alias="publishRootDocument" documentName="Personal Site" />
+  </Actions>
+</umbPackage>
